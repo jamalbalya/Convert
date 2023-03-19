@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import filedialog, messagebox
 
 root = Tk()
-root.title("Python File Converter")
+root.title("Python File Converter v2.0")
 
 # Set the window size
 window_width = 300
